@@ -1,0 +1,21 @@
+
+#int road_len  tape_len hole_count 
+#int hole_vec[] = {...};   NOTE: use 0-based position.
+
+3
+
+10 
+2 
+4
+1 2 5 7
+
+10 
+3 
+4
+1 2 5 7
+
+
+10
+3
+8
+0 1 2 3 5 7 8 9
